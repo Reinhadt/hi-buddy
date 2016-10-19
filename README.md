@@ -1,2 +1,4 @@
 # hi-buddy
-Personal page hosted on heroku
+Personal page hosted on heroku:
+
+https://hi-buddy.herokuapp.com
