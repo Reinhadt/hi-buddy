@@ -1,4 +1,4 @@
 # hi-buddy
-Personal page hosted on heroku:
+My personal site:
 
-https://hi-buddy.herokuapp.com
+https://avalos.me
