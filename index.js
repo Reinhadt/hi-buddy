@@ -4,10 +4,6 @@ var path    = require('path');
 
 app.use(express.static(__dirname + '/app'));
 
-/*app.get('/', function(req,res){
-    res.sendFile(path.join(__dirname + '/app/index.html'));
-});*/
-
 app.all('/*', function(req, res, next) {
     // Just send the index.html for other files to support HTML5Mode
     res.sendFile('/app/index.html', { root: __dirname });

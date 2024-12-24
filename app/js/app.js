@@ -1,7 +1,7 @@
 angular.module('selfish', ['ngRoute', 'ngAnimate'])
 .config(function($locationProvider, $routeProvider){
 
-    $locationProvider.html5Mode(true);
+    $locationProvider.html5Mode(true); // pretty old stuff
 
     $routeProvider
         .when('/', {
