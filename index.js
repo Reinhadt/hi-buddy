@@ -9,5 +9,5 @@ app.all('/*', function(req, res, next) {
     res.sendFile('/app/index.html', { root: __dirname });
 });
 
-app.listen(process.env.PORT || 5000);
+app.listen(process.env.PORT || 5050);
 console.log('Magic on 5000');

@@ -1,1 +1,308 @@
-@font-face{font-family:Quicksand;font-style:normal;font-weight:300;src:local("Quicksand Light"),local(Quicksand-Light),url(//fonts.gstatic.com/s/quicksand/v5/qhfoJiLu10kFjChCCTvGlHZ2MAKAc2x4R1uOSeegc5U.eot?#) format("eot"),url(//fonts.gstatic.com/s/quicksand/v5/qhfoJiLu10kFjChCCTvGlOgdm0LZdjqr5-oayXSOefg.woff2) format("woff2"),url(//fonts.gstatic.com/s/quicksand/v5/qhfoJiLu10kFjChCCTvGlHhCUOGz7vYGh680lGh-uXM.woff) format("woff")}@font-face{font-family:Quicksand;font-style:normal;font-weight:400;src:local("Quicksand Regular"),local(Quicksand-Regular),url(//fonts.gstatic.com/s/quicksand/v5/sKd0EMYPAh5PYCRKSryvW_Y6323mHUZFJMgTvxaG2iE.eot?#) format("eot"),url(//fonts.gstatic.com/s/quicksand/v5/sKd0EMYPAh5PYCRKSryvW1tXRa8TVwTICgirnJhmVJw.woff2) format("woff2"),url(//fonts.gstatic.com/s/quicksand/v5/sKd0EMYPAh5PYCRKSryvWz8E0i7KZn-EPnyo3HZu7kw.woff) format("woff")}@font-face{font-family:Quicksand;font-style:normal;font-weight:700;src:local("Quicksand Bold"),local(Quicksand-Bold),url(//fonts.gstatic.com/s/quicksand/v5/32nyIRHyCu6iqEka_hbKsnZ2MAKAc2x4R1uOSeegc5U.eot?#) format("eot"),url(//fonts.gstatic.com/s/quicksand/v5/32nyIRHyCu6iqEka_hbKsugdm0LZdjqr5-oayXSOefg.woff2) format("woff2"),url(//fonts.gstatic.com/s/quicksand/v5/32nyIRHyCu6iqEka_hbKsnhCUOGz7vYGh680lGh-uXM.woff) format("woff")}*{padding:0;margin:0;font-family:Quicksand,sans-serif}body, html{overflow:hidden}.mainHome{width:70%;position:absolute;top:50%;left:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}.mainHome>.right>h1{font-size:48px}.mainHome>.left>img{width:250px}.mainHome>.left{display:inline-block;float:left}.mainHome>.right{display:inline-block;width:70%;position:absolute;top:25%;left:300px}.who>.right{top:0}.who>.left>svg{width:250px}.things>svg{width:500px;display:block;margin:0 auto}.ideas>svg{width:250px}.flecha{position:absolute;bottom:-50px;right:0}.flecha>a{color:#000;font-size:22px}.flechaP{left:0;width:50%}.things>img{display:block;margin:0 auto}.things>h1{text-align:center;margin:15px auto}.mainHome:before{content:'';display:table}.mainHome:after{content:'';display:table;clear:both}.ideas>.left{width:calc(99.9% * 8/12 - (30px - 30px * 8/12));display:inline-block;position:relative;margin-top:90px}.ideas>.left:nth-child(1n){float:left;margin-right:30px;clear:none}.ideas>.left:last-child{margin-right:0}.ideas>.left:nth-child(12n){margin-right:0;float:right}.ideas>.left:nth-child(12n + 1){clear:both}.ideas>img{width:calc(99.9% * 4/12 - (30px - 30px * 4/12))}.ideas>img:nth-child(1n){float:left;margin-right:30px;clear:none}.ideas>img:last-child{margin-right:0}.ideas>img:nth-child(12n){margin-right:0;float:right}.ideas>img:nth-child(12n + 1){clear:both}.contactIcons{margin-top:30px}.contactIcons>a{color:#000;cursor:pointer;font-size:32px;padding:7px}.page{bottom:0;position:absolute;top:0;width:100%}.page-home.ng-leave, .page-ideas.ng-leave, .page-things.ng-leave{-webkit-animation:b .5s both ease-in;animation:b .5s both ease-in}.page-home.ng-enter, .page-ideas.ng-enter, .page-things.ng-enter{-webkit-animation:a .5s both ease-in;animation:a .5s both ease-in}.page-who.ng-leave{-webkit-animation:b .5s both ease-in;animation:b .5s both ease-in}.page-who.ng-enter{-webkit-animation:a .5s both ease-in;animation:a .5s both ease-in}.burbujaGrande{-webkit-animation:c 2s infinite ease-in-out;animation:c 2s infinite ease-in-out}.burbujaChica{-webkit-animation:c 4s infinite ease-in-out;animation:c 4s infinite ease-in-out}.st2{-webkit-animation:d 2s infinite linear;animation:d 2s infinite linear;-webkit-transform-origin:center;transform-origin:center}#file2{-webkit-animation:f 20s ease-out infinite;animation:f 20s ease-out infinite}#file1, #file3{-webkit-animation:e 15s ease-out infinite;animation:e 15s ease-out infinite}.chispa{-webkit-animation:g 3s linear infinite;animation:g 3s linear infinite}.page.ng-enter{z-index:1}.page.ng-leave{z-index:2}@keyframes a{0%{-webkit-transform:translateX(100%);transform:translateX(100%)}to{-webkit-transform:translateX(0);transform:translateX(0)}}@-webkit-keyframes a{0%{-webkit-transform:translateX(100%)}to{-webkit-transform:translateX(0)}}@keyframes b{to{-webkit-transform:translateX(-100%);transform:translateX(-100%)}}@-webkit-keyframes b{to{-webkit-transform:translateX(-100%)}}@-webkit-keyframes c{to{-webkit-transform:translateY(-70px);transform:translateY(-70px);opacity:0}}@keyframes c{to{-webkit-transform:translateY(-70px);transform:translateY(-70px);opacity:0}}@-webkit-keyframes d{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes d{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@-webkit-keyframes e{0%{-webkit-transform:translateX(-380px);transform:translateX(-380px)}to{-webkit-transform:translateX(300px);transform:translateX(300px)}}@keyframes e{0%{-webkit-transform:translateX(-380px);transform:translateX(-380px)}to{-webkit-transform:translateX(300px);transform:translateX(300px)}}@-webkit-keyframes f{0%{-webkit-transform:translateX(-300px);transform:translateX(-300px)}to{-webkit-transform:translateX(450px);transform:translateX(450px)}}@keyframes f{0%{-webkit-transform:translateX(-300px);transform:translateX(-300px)}to{-webkit-transform:translateX(450px);transform:translateX(450px)}}@-webkit-keyframes g{0%{opacity:0}20%{opacity:1}30%{opacity:0}45%{opacity:1}60%{opacity:0}70%{opacity:1}90%{opacity:0}to{opacity:1}}@keyframes g{0%{opacity:0}20%{opacity:1}30%{opacity:0}45%{opacity:1}60%{opacity:0}70%{opacity:1}90%{opacity:0}to{opacity:1}}
+* {
+	padding: 0;
+	margin: 0;
+	font-family: "Quicksand", sans-serif;
+}
+body,
+html {
+	overflow: hidden;
+}
+p {
+	font-size: 18px;
+}
+.mainHome {
+	width: 70%;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	display: flex;
+	justify-content: space-between;
+	flex-flow: wrap;
+	align-items: center;
+}
+.mainHome > .right > h1 {
+	font-size: 48px;
+}
+.mainHome > .left > img {
+	width: 250px;
+}
+.mainHome > .left {
+	display: inline-block;
+	float: left;
+}
+.mainHome > .right {
+	display: inline-block;
+	width: 70%;
+	top: 25%;
+	left: 270px;
+}
+.who > .right {
+	top: 0;
+}
+.who > .left > svg {
+	width: 250px;
+}
+.things > svg {
+	max-width: 500px;
+	display: block;
+	margin: 0 auto;
+}
+.ideas > svg {
+	max-width: 250px;
+	order: 2;
+}
+.flecha {
+	position: absolute;
+	bottom: -50px;
+	right: 0;
+}
+.flecha > a {
+	color: black;
+	font-size: 22px;
+}
+.flechaP {
+	left: 0;
+	width: 50%;
+}
+.things > img {
+	display: block;
+	margin: 0 auto;
+}
+.things > h1 {
+	text-align: center;
+	margin: 15px auto;
+  width: 100%;
+}
+.mainHome {
+	lost-utility: clearfix;
+}
+.ideas > .left {
+	/* lost-column: 8/12;
+	display: inline-block;
+	position: relative;
+	margin-top: 90px; */  
+	max-width: 70%;
+	order: 1;
+}
+.ideas > img {
+	lost-column: 4/12;
+}
+.contactIcons {
+	margin-top: 30px;
+}
+.contactIcons > a {
+	color: black;
+	cursor: pointer;
+	font-size: 32px;
+	padding: 7px;
+}
+.page {
+	bottom: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+.page-home.ng-leave,
+.page-things.ng-leave,
+.page-ideas.ng-leave {
+	-webkit-animation: slideOutLeft 0.5s both ease-in;
+	-moz-animation: slideOutLeft 0.5s both ease-in;
+	animation: slideOutLeft 0.5s both ease-in;
+}
+.page-home.ng-enter,
+.page-things.ng-enter,
+.page-ideas.ng-enter {
+	-webkit-animation: slideInRight 0.5s both ease-in;
+	-moz-animation: slideInRight 0.5s both ease-in;
+	animation: slideInRight 0.5s both ease-in;
+}
+.page-who.ng-leave {
+	-webkit-animation: slideOutLeft 0.5s both ease-in;
+	-moz-animation: slideOutLeft 0.5s both ease-in;
+	animation: slideOutLeft 0.5s both ease-in;
+}
+.page-who.ng-enter {
+	-webkit-animation: slideInRight 0.5s both ease-in;
+	-moz-animation: slideInRight 0.5s both ease-in;
+	animation: slideInRight 0.5s both ease-in;
+}
+
+.burbujaGrande {
+	animation: inflame 2s infinite ease-in-out;
+}
+.burbujaChica {
+	animation: inflame 4s infinite ease-in-out;
+}
+.st2 {
+	animation: spin 2s infinite linear;
+	transform-origin: center;
+}
+#file2 {
+	animation: sideCSS 20s ease-out infinite;
+}
+#file3 {
+	animation: side 15s ease-out infinite;
+}
+#file1 {
+	animation: side 15s ease-out infinite;
+}
+.chispa {
+	animation: spark 3s linear infinite;
+}
+.page.ng-enter {
+	z-index: 8888;
+}
+.page.ng-leave {
+	z-index: 9999;
+}
+
+/* ANIMATIONS */
+/* slide in from the right */
+@keyframes slideInRight {
+	from {
+		transform: translateX(100%);
+	}
+	to {
+		transform: translateX(0);
+	}
+}
+@-moz-keyframes slideInRight {
+	from {
+		-moz-transform: translateX(100%);
+	}
+	to {
+		-moz-transform: translateX(0);
+	}
+}
+@-webkit-keyframes slideInRight {
+	from {
+		-webkit-transform: translateX(100%);
+	}
+	to {
+		-webkit-transform: translateX(0);
+	}
+}
+
+/* slide in from the bottom */
+@keyframes slideOutLeft {
+	to {
+		transform: translateX(-100%);
+	}
+}
+@-moz-keyframes slideOutLeft {
+	to {
+		-moz-transform: translateX(-100%);
+	}
+}
+@-webkit-keyframes slideOutLeft {
+	to {
+		-webkit-transform: translateX(-100%);
+	}
+}
+
+@keyframes inflame {
+	to {
+		transform: translateY(-70px);
+		opacity: 0;
+	}
+}
+@keyframes spin {
+	0% {
+		transform: rotate(0deg);
+	}
+
+	100% {
+		transform: rotate(360deg);
+	}
+}
+@keyframes side {
+	0% {
+		transform: translateX(-380px);
+	}
+	100% {
+		transform: translateX(300px);
+	}
+}
+@keyframes sideCSS {
+	0% {
+		transform: translateX(-300px);
+	}
+	100% {
+		transform: translateX(450px);
+	}
+}
+@keyframes spark {
+	0% {
+		opacity: 0;
+	}
+	20% {
+		opacity: 1;
+	}
+	30% {
+		opacity: 0;
+	}
+	45% {
+		opacity: 1;
+	}
+	60% {
+		opacity: 0;
+	}
+	70% {
+		opacity: 1;
+	}
+	90% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+/*-------------480-------------*/
+@media (max-width: 480px) {
+	p {
+		font-weight: bolder;
+		font-size: 16px;
+	}
+	.mainHome > .left,
+	.mainHome > .right,
+	.ideas > .left:nth-child(1n) {
+		float: none;
+		position: relative;
+		display: block;
+		width: auto;
+		text-align: center;
+		font-size: 1em;
+		left: 0;
+		margin-right: 0 !important;
+    width:100%;
+	}
+	.left > img,
+	.left > svg {
+		display: block;
+		margin: 0 auto;
+		max-width: 150px;
+	}
+	.mainHome > .right > h1 {
+		font-size: 2em;
+	}
+	.ideas > svg {
+		/* display: none; */
+		order: 1;
+		max-width: 150px;
+		display: block;
+		margin: auto;
+	}
+	.ideas > .left {
+		margin-top: 0;
+		order: 2;
+		max-width: 100%;
+	}
+}
+
+@media (min-width: 1320px){
+  .things>svg{
+    max-width:600px;
+  }
+}
